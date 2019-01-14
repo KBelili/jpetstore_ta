@@ -1,0 +1,8 @@
+
+SETUP :
+
+
+TEST :
+# EXECUTE_SELENIUM2 selenium_resources WITH MAIN CLASS java.fr.jpetstore.DoublePrixPanier
+TEARDOWN :
+

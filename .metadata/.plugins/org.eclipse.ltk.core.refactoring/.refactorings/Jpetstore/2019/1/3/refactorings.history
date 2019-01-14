@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DoublePrixPanier.java&apos; to &apos;jpetstore&apos;&#x0D;&#x0A;- Original project: &apos;Jpetstore&apos;&#x0D;&#x0A;- Destination element: &apos;jpetstore&apos;&#x0D;&#x0A;- Original element: &apos;DoublePrixPanier.java&apos;" description="Copy file" element1="src/test/java/org/eql/DoublePrixPanier.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1547465873544" target="/jpetstore_ta/src/squashTA/resources/selenium_resources/fr/jpetstore" units="0" version="1.0"/>
+</session>
